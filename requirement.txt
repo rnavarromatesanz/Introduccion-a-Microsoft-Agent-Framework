@@ -1,0 +1,6 @@
+agent-framework == 1.0.0b260107
+agent-framework-core>=1.0.0b251001
+pandas == 3.0.0
+python-dotenv == 1.2.1
+graphviz>=0.21
+agent-framework-devui
